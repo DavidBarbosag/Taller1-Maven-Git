@@ -72,7 +72,8 @@ Este taller tiene como objetivo guiar al estudiante en la creación de la estruc
 ![git commit remoto](/assets/image-12.png)
 
 * push
-![git push](/assets/image-13.png)
+
+![git push](/assets/image-nn.png)
 
 * Obtener una copia de un repositorio remoto
 ![git clone](/assets/image-14.png)
