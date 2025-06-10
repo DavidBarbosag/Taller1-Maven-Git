@@ -58,3 +58,13 @@ Verificacion de programas instalados
 * Ignorando algunos archivos
 
 ![gitignore actualizado](image-11.png)
+
+* commit
+![git commit remoto](image-12.png)
+
+* push
+![git push](image-13.png)
+
+* Obtener una copia de un repositorio remoto
+![git clone](image-14.png)
+
