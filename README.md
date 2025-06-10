@@ -1,5 +1,16 @@
 # Introducción a Maven, GIT, GitHub
 
+Este taller tiene como objetivo guiar al estudiante en la creación de la estructura básica para un proyecto Java utilizando **Maven** y el control de versiones con **Git**, incluyendo la configuración de un repositorio remoto en **GitHub**.
+
+## Contenidos del taller
+
+### Gestion de archivos y proyectos con git
+* Añadir, editar e ignorar archivos. 
+* Eliminar repositorios locales y remotos creados durante prácticas anteriores.
+
+###  Creación del proyecto con Maven
+* Creacion de andamio para el proyecto
+
 # Maven
 
 * Verificacion de programas instalados 
